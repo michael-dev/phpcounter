@@ -1,5 +1,9 @@
 <?php
 
+/* (C) 2014, Michael Braun
+ * License: GPLv3
+ */
+
 $domain = $_SERVER["SERVER_NAME"];
 $configdir = dirname(dirname(__FILE__));
 
